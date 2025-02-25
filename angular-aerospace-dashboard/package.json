@@ -1,0 +1,11 @@
+{
+    "name": "angular-aerospace-dashboard",
+    "version": "1.0.0",
+    "dependencies": {
+        "@angular/core": "^13.0.0",
+        "stencil-aerospace-ui": "file:../stencil-aerospace-ui/dist"
+    },
+    "scripts": {
+        "start": "ng serve"
+    }
+}
